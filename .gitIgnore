@@ -1,12 +1,13 @@
 
 
 # Environments
+.venv
 env/
 ENV/
 env.bak/
 venv.bak/
 venv/
-.venv
+
 
 djangoapp/static/
 /djangoapp/media/
